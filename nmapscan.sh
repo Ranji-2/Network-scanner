@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 echo "Hello `whoami` , welcome to `hostname` machine on today `date`"
 sleep 3
